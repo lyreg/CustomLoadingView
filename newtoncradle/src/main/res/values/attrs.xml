@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CradleBall">
+        <attr name="cradle_ball_color" format="color" />
+        <attr name="cradle_ball_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="NewtonCradleLoading">
+        <attr name="ball_color" format="color" />
+        <attr name="ball_size" format="dimension" />
+    </declare-styleable>
+</resources>
